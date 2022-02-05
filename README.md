@@ -1,11 +1,11 @@
 # Caddy + Cloudflare DNS plugin
 
-Based on the official Caddy image, this includes the Cloudflare DNS plugin.
+Based on the official Caddy image, this includes the Cloudflare DNS and Real IP plugins.
 
 ## Environment variables
 
-- CLOUDFLARE_EMAIL
-- CLOUDFLARE_API_TOKEN
+-   CLOUDFLARE_EMAIL
+-   CLOUDFLARE_API_TOKEN
 
 To get the Cloudflare API token please follow [these instructions](https://support.cloudflare.com/hc/en-us/articles/200167836-Managing-API-Tokens-and-Keys).
 
