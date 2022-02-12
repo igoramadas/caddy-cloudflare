@@ -1,6 +1,6 @@
 # Caddy + Cloudflare DNS plugin
 
-Based on the official Caddy image, this includes the Cloudflare DNS and Real IP plugins.
+Based on the official Caddy image, this includes the Cloudflare DNS, Real IP and CrowdSec plugins.
 
 ## Environment variables
 
