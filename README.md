@@ -23,7 +23,7 @@ To get the Cloudflare API token please follow [these instructions](https://suppo
                  -e CLOUDFLARE_API_TOKEN=my-api-token \
                  igoramadas/caddy-cloudflare
 
-Please note that you might need to adjust the ports accordingly.
+Please note that you might need to adjust the exposed ports accordingly.
 
 ## Other options
 
